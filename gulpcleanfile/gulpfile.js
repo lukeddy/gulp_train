@@ -12,3 +12,11 @@ gulp.task('clean:mobile', function (cb) {
 });
 
 gulp.task('default', ['clean:mobile']);
+
+/**
+运行方法：
+$npm install --save-dev gulp del
+
+$gulp
+
+**/
